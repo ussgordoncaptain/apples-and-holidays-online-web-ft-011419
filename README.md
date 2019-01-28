@@ -1,4 +1,4 @@
-l# Iterating Over Hashes
+# Iterating Over Hashes
 
 ## Objectives
 
